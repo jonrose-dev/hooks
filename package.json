@@ -1,0 +1,15 @@
+{
+  "name": "hooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "setState.js",
+  "dependencies": {
+    "typescript": "^4.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "npx tsc setState.ts; node setState.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
